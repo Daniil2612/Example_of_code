@@ -1,7 +1,4 @@
 # Example_of_code
 
-List.cpp-задача на сортировку односвязного списка 
-nasledovanie.cpp-задача на решение системы линейных уравнений, с помощью наследования
-itog2.c-задача на нахождение в каталоге графических файлов одинаковых размеров и форматов
-ftp.c- задача, связанная с работой сервера по протоколу FTP (на данный момент не доделана)
-web.cpp - локальный сервер, работающий на протоколе HTTP (полноценно file.html, file1.html, kot.png, main, shrek.png, web.cpp)
+These are some of my works related to ML class problems, basically everywhere 
+the principle of action is the same: working with data, then selecting a suitable model or their ensembles
